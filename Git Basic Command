@@ -1,0 +1,18 @@
+git init
+--- Initializes an empty git repository.
+
+git status
+--- Gives the information of the current state of the git repository
+
+git checkout -b <branch_name>
+--- Switching to new branch , if you want to switch an 
+    existing branch then use checkout branch with -b 
+
+git add <file_name>
+--- use to stage the untracked file
+
+git branch 
+--- Gives the info / list of all branches in the git repo
+
+git commit -m "Your Messages" 
+--- used to track the staged files after being added by git add
